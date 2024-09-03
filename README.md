@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working on **Impactnet**
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 🌱 I’m currently learning **Go, Tailwind, React Native Expo**
 
  💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here]()**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Real fact **Figma, a widely-used design and prototyping tool, operates in the cloud and is utilized for crafting user interfaces, web designs, and interactive prototypes.**
  
  </div>
  
